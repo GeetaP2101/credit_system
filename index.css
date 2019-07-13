@@ -1,0 +1,17 @@
+body{
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7hxREcpvDUlaZYmi6edyMkJE7lKCTWu_8uS0gazg8rLs7YoZJ6w);
+	background-repeat: no repeat;
+	background-size: cover;
+}
+h1{
+	text-align: center;
+	font-family: "castellar";
+}
+p{
+	font-size: 40px;
+}
+.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
+
